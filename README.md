@@ -8,16 +8,20 @@ This project was created in Visual Studio for Mac.
 
 - Create an API that displays a "Hello world" message (*api/HelloWorld/*) in JSON format.
 
-```{
+```
+{
   "helloWorldMessage": "string"
-}```
+}
+```
 
 - Create an API that consumes an external API (*api/GetCatFact/*).
 
-```{
+```
+{
   "errorMessage": "string",
   "fact": "string"
-}```
+}
+```
 
 #### api/GetCatFact/
 
