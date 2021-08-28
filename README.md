@@ -31,7 +31,7 @@ GetCatFact consumes this method, and checks if the fact length is lower or equal
 
 ### How to test this project
 
-1. Open the solution (sln extension).
+1. Open the solution (sln extension) into *GO_BootcampRestAPI* folder.
 2. Choose a web explorer.
 3. Execute the solution in Debug mode. This will show a *Swagger* page.
 4. Click on any get methods.
