@@ -1,5 +1,5 @@
 ## REST API for GO BootCAMP.
-Date: 2021-08-27
+**Date: 2021-08-27**
 
 GO_BootcampRestAPI is a C# API solution using .NET 5 created as a practice.
 ### Used references:
