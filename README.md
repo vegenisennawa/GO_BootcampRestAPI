@@ -37,7 +37,7 @@ GetCatFact consumes this method, and checks if the fact length is lower or equal
 4. Click on any get methods.
 5. Click on the *Try it out* button to watch the response.
 
-***Additional***: You can try the API on Postman while the project is running.
+***Additional***: You can try the API on Postman while the project is running (with SSL certificate verification disabled).
 ### Used references:
 - https://apipheny.io/free-api/#apis-without-key
 - https://catfact.ninja/
