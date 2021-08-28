@@ -7,9 +7,11 @@ This project was created in Visual Studio for Mac.
 ### Project objective
 
 - Create an API that displays a "Hello world" message (*api/HelloWorld/*) in JSON format.
+
 {
   "helloWorldMessage": "string"
 }
+
 - Create an API that consumes an external API (*api/GetCatFact/*).
 
 {
