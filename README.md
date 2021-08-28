@@ -17,8 +17,8 @@ GetCatFact consumes this method, and checks if the fact length is lower or equal
 
 ### How to test this project
 
-1- sd
-2- d
+1. sd
+2. d
 ### Used references:
 - https://apipheny.io/free-api/#apis-without-key
 - https://catfact.ninja/
