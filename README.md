@@ -2,6 +2,11 @@
 ***Last update:* 2021-08-27**
 
 GO_BootcampRestAPI is a C# API solution using .NET 5 created as a practice.
+This project was created in Visual Studio for Mac.
+## Project objective
+
+- Create an API that displays a "Hello world" message (Route(*api/HelloWorld/*).
+- Create an API that consumes an external API (Route(*api/GetCatFact/*).
 ### Used references:
 - https://apipheny.io/free-api/#apis-without-key
 - https://catfact.ninja/
